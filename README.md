@@ -4,4 +4,5 @@ A Java-based application, created as part of the UCL Department of Computer Scie
 
 Designed and Written by Louis Heery and Ziming He in January-April 2018.
 
-![alt text](https://raw.githubusercontent.com/louisheery/split-it/blob/master/splitit-diagram.png)
+### Diagram of Algorithm Design
+![alt text](https://github.com/louisheery/split-it/blob/master/splitit-diagram.png)
