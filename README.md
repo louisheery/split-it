@@ -1,7 +1,7 @@
-# Split-It (COMP210 Final Project)
+# Split-It
 
 [![Build Status](https://img.shields.io/badge/build-v1.0-brightgreen)](https://github.com/louisheery/split-it)
-[![Build Status](https://img.shields.io/badge/build_status-published-brightgreen)](https://github.com/louisheery/plug-and-play-ML)
+[![Build Status](https://img.shields.io/badge/build_status-published-brightgreen)](https://github.com/louisheery/split-it)
 
 A Java-based application, created as part of the UCL Department of Computer Science COMP210 course, which allocates scores to participants of a project based on their contribution to the project.
 
